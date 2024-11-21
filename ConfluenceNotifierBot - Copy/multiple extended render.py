@@ -385,7 +385,7 @@ async def main():
     logging.info("Starting bot with webhooks...")
 
     # Set up webhook URL (replace YOUR_RENDER_URL with your actual Render app URL)
-    render_url = "https://confluencenotifierbot-copy-1.onrender.com"  # Replace with your Render app URL
+    render_url = "https://confluencenotifierbot-copy-2.onrender.com"  # Replace with your Render app URL
     webhook_url = f"{render_url}/{BOT_TOKEN}"
     
     # Start webhook for updates instead of using polling
