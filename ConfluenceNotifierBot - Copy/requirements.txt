@@ -7,3 +7,7 @@ httpx
 nest_asyncio
 python-telegram-bot[webhooks]
 Flask
+datetime
+logging
+asyncio
+httpx
