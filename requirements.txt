@@ -1,0 +1,9 @@
+telethon==1.37.0
+telegram==0.0.1
+python-telegram-bot
+python-dotenv
+requests
+httpx
+nest_asyncio
+python-telegram-bot[webhooks]
+Flask
