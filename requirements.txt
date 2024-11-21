@@ -7,15 +7,9 @@ httpx
 nest_asyncio
 python-telegram-bot[webhooks]
 Flask
-time
 datetime
 dotenv 
-re
-collections
 logging
 asyncio
-sys
-contextlib
-httpx 
-logging
-nest_asyncio
+httpx
+
