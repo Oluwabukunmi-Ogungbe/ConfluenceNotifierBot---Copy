@@ -8,7 +8,6 @@ nest_asyncio
 python-telegram-bot[webhooks]
 Flask
 datetime
-dotenv 
 logging
 asyncio
 httpx
