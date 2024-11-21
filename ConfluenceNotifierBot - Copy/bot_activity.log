@@ -1,0 +1,177 @@
+2024-11-12 00:46:27,311 - __main__ - INFO - Starting bot
+2024-11-12 00:46:27,311 - __main__ - INFO - Initializing bot application
+2024-11-12 00:46:29,451 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7327291802:AAFPM911VQH5uyTX2uPG8j503NCt3r62yMs/setWebhook "HTTP/1.1 200 OK"
+2024-11-12 00:46:29,600 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7327291802:AAFPM911VQH5uyTX2uPG8j503NCt3r62yMs/getMe "HTTP/1.1 200 OK"
+2024-11-12 00:46:29,600 - __main__ - INFO - Bot webhook setup completed successfully
+2024-11-12 00:46:29,781 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7327291802:AAFPM911VQH5uyTX2uPG8j503NCt3r62yMs/deleteWebhook "HTTP/1.1 200 OK"
+2024-11-12 00:46:29,931 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7327291802:AAFPM911VQH5uyTX2uPG8j503NCt3r62yMs/setWebhook "HTTP/1.1 429 Too Many Requests"
+2024-11-12 00:46:29,931 - telegram.ext.Updater - INFO - Flood control exceeded. Retry in 1 seconds
+2024-11-12 00:46:31,631 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7327291802:AAFPM911VQH5uyTX2uPG8j503NCt3r62yMs/setWebhook "HTTP/1.1 200 OK"
+2024-11-12 00:46:31,641 - apscheduler.scheduler - INFO - Scheduler started
+2024-11-12 00:46:31,641 - telegram.ext.Application - INFO - Application started
+2024-11-12 00:46:39,325 - __main__ - INFO - Start command received from user: Busiiiiii
+2024-11-12 00:46:39,326 - __main__ - INFO - Authorization check - User: Busiiiiii, Chat: Busiiiiii, Authorized: True
+2024-11-12 00:46:39,326 - __main__ - INFO - Processing start command for chat_id: 6215746498
+2024-11-12 00:46:39,327 - __main__ - INFO - Processing chat link: https://t.me/ray_silver_bot
+2024-11-12 00:46:39,329 - __main__ - INFO - Extracting messages from https://t.me/ray_silver_bot with limit 15
+2024-11-12 00:46:39,330 - telethon.network.mtprotosender - INFO - Connecting to 149.154.167.91:443/TcpFull...
+2024-11-12 00:46:39,483 - telethon.network.mtprotosender - INFO - Connection to 149.154.167.91:443/TcpFull complete!
+2024-11-12 00:46:40,672 - __main__ - INFO - Found trader message from TRADER13 with keywords: ['RAYDIUM', 'PUMP']
+2024-11-12 00:46:40,672 - __main__ - WARNING - Failed to extract Solana address or amount
+2024-11-12 00:46:40,672 - __main__ - INFO - Found trader message from TRADER13 with keywords: ['RAYDIUM', 'PUMP']
+2024-11-12 00:46:40,672 - __main__ - WARNING - Failed to extract Solana address or amount
+2024-11-12 00:46:40,683 - __main__ - INFO - Found trader message from TRADER13 with keywords: ['RAYDIUM', 'PUMP']
+2024-11-12 00:46:40,683 - __main__ - WARNING - Failed to extract Solana address or amount
+2024-11-12 00:46:40,683 - __main__ - INFO - Found trader message from TRADER13 with keywords: ['RAYDIUM', 'PUMP']
+2024-11-12 00:46:40,683 - __main__ - WARNING - Failed to extract Solana address or amount
+2024-11-12 00:46:40,691 - __main__ - INFO - Found trader message from TRADER13 with keywords: ['RAYDIUM', 'PUMP']
+2024-11-12 00:46:40,691 - __main__ - WARNING - Failed to extract Solana address or amount
+2024-11-12 00:46:40,699 - __main__ - INFO - Found trader message from TRADER13 with keywords: ['RAYDIUM', 'PUMP']
+2024-11-12 00:46:40,699 - __main__ - WARNING - Failed to extract Solana address or amount
+2024-11-12 00:46:40,707 - __main__ - INFO - Found trader message from TRADER13 with keywords: ['RAYDIUM', 'PUMP']
+2024-11-12 00:46:40,715 - __main__ - WARNING - Failed to extract Solana address or amount
+2024-11-12 00:46:40,715 - telethon.network.mtprotosender - INFO - Disconnecting from 149.154.167.91:443/TcpFull...
+2024-11-12 00:46:40,723 - telethon.network.mtprotosender - INFO - Disconnection from 149.154.167.91:443/TcpFull complete!
+2024-11-12 00:46:40,733 - __main__ - INFO - Processing chat link: https://t.me/handi_cat_bot
+2024-11-12 00:46:40,733 - __main__ - INFO - Extracting messages from https://t.me/handi_cat_bot with limit 20
+2024-11-12 00:46:40,741 - telethon.network.mtprotosender - INFO - Connecting to 149.154.167.91:443/TcpFull...
+2024-11-12 00:46:40,893 - telethon.network.mtprotosender - INFO - Connection to 149.154.167.91:443/TcpFull complete!
+2024-11-12 00:46:41,586 - __main__ - INFO - Found trader message from TRADER29 with keywords: ['PUMP', 'PUMPFUN']
+2024-11-12 00:46:41,586 - __main__ - WARNING - Failed to extract Solana address or amount
+2024-11-12 00:46:41,586 - __main__ - INFO - Found trader message from TRADER29 with keywords: ['PUMPFUN']
+2024-11-12 00:46:41,586 - __main__ - WARNING - Failed to extract Solana address or amount
+2024-11-12 00:46:41,594 - __main__ - INFO - Found trader message from TRADER29 with keywords: ['PUMP', 'PUMPFUN']
+2024-11-12 00:46:41,594 - __main__ - WARNING - Failed to extract Solana address or amount
+2024-11-12 00:46:41,594 - __main__ - INFO - Found trader message from TRADER4 with keywords: ['RAYDIUM', 'PUMP']
+2024-11-12 00:46:41,602 - __main__ - WARNING - Failed to extract Solana address or amount
+2024-11-12 00:46:41,605 - __main__ - INFO - Found trader message from TRADER29 with keywords: ['PUMP', 'PUMPFUN']
+2024-11-12 00:46:41,605 - __main__ - WARNING - Failed to extract Solana address or amount
+2024-11-12 00:46:41,605 - __main__ - INFO - Found trader message from TRADER29 with keywords: ['PUMP', 'PUMPFUN']
+2024-11-12 00:46:41,605 - __main__ - WARNING - Failed to extract Solana address or amount
+2024-11-12 00:46:41,613 - __main__ - INFO - Found trader message from TRADER29 with keywords: ['PUMP', 'PUMPFUN']
+2024-11-12 00:46:41,621 - __main__ - WARNING - Failed to extract Solana address or amount
+2024-11-12 00:46:41,621 - __main__ - INFO - Found trader message from TRADER7 with keywords: ['RAYDIUM', 'PUMP']
+2024-11-12 00:46:41,621 - __main__ - WARNING - Failed to extract Solana address or amount
+2024-11-12 00:46:41,634 - __main__ - INFO - Found trader message from TRADER29 with keywords: ['PUMP', 'PUMPFUN']
+2024-11-12 00:46:41,634 - __main__ - WARNING - Failed to extract Solana address or amount
+2024-11-12 00:46:41,634 - __main__ - INFO - Found trader message from TRADER29 with keywords: ['PUMP', 'PUMPFUN']
+2024-11-12 00:46:41,634 - __main__ - WARNING - Failed to extract Solana address or amount
+2024-11-12 00:46:41,634 - __main__ - INFO - Found trader message from TRADER4 with keywords: ['RAYDIUM', 'PUMP']
+2024-11-12 00:46:41,634 - __main__ - WARNING - Failed to extract Solana address or amount
+2024-11-12 00:46:41,642 - __main__ - INFO - Found trader message from TRADER29 with keywords: ['PUMP', 'PUMPFUN']
+2024-11-12 00:46:41,642 - __main__ - WARNING - Failed to extract Solana address or amount
+2024-11-12 00:46:41,650 - telethon.network.mtprotosender - INFO - Disconnecting from 149.154.167.91:443/TcpFull...
+2024-11-12 00:46:41,650 - telethon.network.mtprotosender - INFO - Disconnection from 149.154.167.91:443/TcpFull complete!
+2024-11-12 00:46:41,658 - __main__ - INFO - Processing chat link: https://t.me/Wallet_tracker_solana_spybot
+2024-11-12 00:46:41,658 - __main__ - INFO - Extracting messages from https://t.me/Wallet_tracker_solana_spybot with limit 20
+2024-11-12 00:46:41,666 - telethon.network.mtprotosender - INFO - Connecting to 149.154.167.91:443/TcpFull...
+2024-11-12 00:46:41,823 - telethon.network.mtprotosender - INFO - Connection to 149.154.167.91:443/TcpFull complete!
+2024-11-12 00:46:42,669 - __main__ - INFO - Found trader message from TRADER37 with keywords: ['RAYDIUM', 'PUMP']
+2024-11-12 00:46:42,671 - __main__ - WARNING - Failed to extract Solana address or amount
+2024-11-12 00:46:42,672 - __main__ - INFO - Found trader message from TRADER35 with keywords: ['PUMP']
+2024-11-12 00:46:42,674 - __main__ - WARNING - Failed to extract Solana address or amount
+2024-11-12 00:46:42,676 - __main__ - INFO - Found trader message from TRADER36 with keywords: ['PUMP']
+2024-11-12 00:46:42,678 - __main__ - WARNING - Failed to extract Solana address or amount
+2024-11-12 00:46:42,682 - __main__ - INFO - Found trader message from TRADER35 with keywords: ['RAYDIUM', 'PUMP']
+2024-11-12 00:46:42,683 - __main__ - WARNING - Failed to extract Solana address or amount
+2024-11-12 00:46:42,687 - __main__ - INFO - Found trader message from TRADER35 with keywords: ['PUMP']
+2024-11-12 00:46:42,689 - __main__ - WARNING - Failed to extract Solana address or amount
+2024-11-12 00:46:42,698 - __main__ - INFO - Found trader message from TRADER35 with keywords: ['RAYDIUM', 'PUMP']
+2024-11-12 00:46:42,699 - __main__ - WARNING - Failed to extract Solana address or amount
+2024-11-12 00:46:42,706 - __main__ - INFO - Found trader message from TRADER37 with keywords: ['RAYDIUM', 'PUMP']
+2024-11-12 00:46:42,707 - __main__ - WARNING - Failed to extract Solana address or amount
+2024-11-12 00:46:42,717 - __main__ - INFO - Found trader message from TRADER37 with keywords: ['RAYDIUM', 'PUMP']
+2024-11-12 00:46:42,718 - __main__ - WARNING - Failed to extract Solana address or amount
+2024-11-12 00:46:42,721 - __main__ - INFO - Found trader message from TRADER37 with keywords: ['PUMP']
+2024-11-12 00:46:42,723 - __main__ - WARNING - Failed to extract Solana address or amount
+2024-11-12 00:46:42,734 - __main__ - INFO - Found trader message from TRADER37 with keywords: ['PUMP']
+2024-11-12 00:46:42,735 - __main__ - WARNING - Failed to extract Solana address or amount
+2024-11-12 00:46:42,740 - __main__ - INFO - Found trader message from TRADER37 with keywords: ['PUMP']
+2024-11-12 00:46:42,751 - __main__ - WARNING - Failed to extract Solana address or amount
+2024-11-12 00:46:42,754 - telethon.network.mtprotosender - INFO - Disconnecting from 149.154.167.91:443/TcpFull...
+2024-11-12 00:46:42,759 - telethon.network.mtprotosender - INFO - Disconnection from 149.154.167.91:443/TcpFull complete!
+2024-11-12 00:46:42,774 - __main__ - INFO - Processing chat link: https://t.me/Godeye_wallet_trackerBot
+2024-11-12 00:46:42,776 - __main__ - INFO - Extracting messages from https://t.me/Godeye_wallet_trackerBot with limit 20
+2024-11-12 00:46:42,777 - telethon.network.mtprotosender - INFO - Connecting to 149.154.167.91:443/TcpFull...
+2024-11-12 00:46:42,932 - telethon.network.mtprotosender - INFO - Connection to 149.154.167.91:443/TcpFull complete!
+2024-11-12 00:46:43,575 - __main__ - INFO - Found trader message from TRADER39 with keywords: ['PUMP']
+2024-11-12 00:46:43,575 - __main__ - WARNING - Failed to extract Solana address or amount
+2024-11-12 00:46:43,583 - __main__ - INFO - Found trader message from TRADER39 with keywords: ['PUMP']
+2024-11-12 00:46:43,584 - __main__ - WARNING - Failed to extract Solana address or amount
+2024-11-12 00:46:43,585 - __main__ - INFO - Found trader message from TRADER39 with keywords: ['PUMP']
+2024-11-12 00:46:43,585 - __main__ - WARNING - Failed to extract Solana address or amount
+2024-11-12 00:46:43,585 - __main__ - INFO - Found trader message from TRADER39 with keywords: ['PUMP']
+2024-11-12 00:46:43,593 - __main__ - WARNING - Failed to extract Solana address or amount
+2024-11-12 00:46:43,593 - __main__ - INFO - Found trader message from TRADER39 with keywords: ['PUMP']
+2024-11-12 00:46:43,593 - __main__ - WARNING - Failed to extract Solana address or amount
+2024-11-12 00:46:43,601 - __main__ - INFO - Found trader message from TRADER39 with keywords: ['PUMP']
+2024-11-12 00:46:43,601 - __main__ - WARNING - Failed to extract Solana address or amount
+2024-11-12 00:46:43,609 - __main__ - INFO - Found trader message from TRADER39 with keywords: ['PUMP']
+2024-11-12 00:46:43,609 - __main__ - WARNING - Failed to extract Solana address or amount
+2024-11-12 00:46:43,617 - __main__ - INFO - Found trader message from TRADER39 with keywords: ['PUMP']
+2024-11-12 00:46:43,633 - __main__ - WARNING - Failed to extract Solana address or amount
+2024-11-12 00:46:43,637 - __main__ - INFO - Found trader message from TRADER39 with keywords: ['PUMP']
+2024-11-12 00:46:43,637 - __main__ - WARNING - Failed to extract Solana address or amount
+2024-11-12 00:46:43,637 - telethon.network.mtprotosender - INFO - Disconnecting from 149.154.167.91:443/TcpFull...
+2024-11-12 00:46:43,637 - telethon.network.mtprotosender - INFO - Disconnection from 149.154.167.91:443/TcpFull complete!
+2024-11-12 00:46:43,655 - __main__ - INFO - Processing chat link: https://t.me/GMGN_alert_bot
+2024-11-12 00:46:43,655 - __main__ - INFO - Extracting messages from https://t.me/GMGN_alert_bot with limit 20
+2024-11-12 00:46:43,655 - telethon.network.mtprotosender - INFO - Connecting to 149.154.167.91:443/TcpFull...
+2024-11-12 00:46:43,823 - telethon.network.mtprotosender - INFO - Connection to 149.154.167.91:443/TcpFull complete!
+2024-11-12 00:46:44,511 - __main__ - INFO - Found trader message from TRADER48 with keywords: ['PUMP']
+2024-11-12 00:46:44,512 - __main__ - INFO - Added trader data for DJ1GRZ5af1JHc1PQe372CLcxGTSMa2YnHFqFCEozpump: TRADER48, 1.96 SOL, None, ['PUMP']
+2024-11-12 00:46:44,512 - __main__ - INFO - Found trader message from TRADER48 with keywords: ['RAYDIUM', 'PUMP']
+2024-11-12 00:46:44,512 - __main__ - INFO - Added trader data for 3jFHfxeBD4Vw3vNnZtqVHQsUrGFRtYhXHQ8kc24apump: TRADER48, 9.89 SOL, None, ['RAYDIUM', 'PUMP']
+2024-11-12 00:46:44,523 - __main__ - INFO - Found trader message from TRADER48 with keywords: ['PUMP']
+2024-11-12 00:46:44,523 - __main__ - INFO - Added trader data for 2ADoQ1KkP9G3jPpawPavj7p5LgikpVNfqFwCGuG6pump: TRADER48, 1.96 SOL, None, ['PUMP']
+2024-11-12 00:46:44,531 - __main__ - INFO - Found trader message from TRADER48 with keywords: ['PUMP']
+2024-11-12 00:46:44,533 - __main__ - INFO - Added trader data for 661d5N13WXH7DAxyo9CZ73w8tw6TKbXvgVNDuJiGpump: TRADER48, 2.0 SOL, None, ['PUMP']
+2024-11-12 00:46:44,533 - __main__ - INFO - Found trader message from TRADER48 with keywords: ['RAYDIUM', 'PUMP']
+2024-11-12 00:46:44,533 - __main__ - INFO - Added trader data for 9VAETMomdPmrFdF53VkgTpsoKNzxTa9gBgTef8m3pump: TRADER48, 2.97 SOL, None, ['RAYDIUM', 'PUMP']
+2024-11-12 00:46:44,542 - __main__ - INFO - Found trader message from TRADER48 with keywords: ['PUMP']
+2024-11-12 00:46:44,542 - __main__ - INFO - Added trader data for CdFRe5VwS8HhbJREXXbrNj7mQkQ6xQ8g3uSs9GbQpump: TRADER48, 1.96 SOL, None, ['PUMP']
+2024-11-12 00:46:44,550 - __main__ - INFO - Found trader message from TRADER48 with keywords: ['RAYDIUM', 'PUMP']
+2024-11-12 00:46:44,550 - __main__ - INFO - Added trader data for 6sfXhR6AV9gsD8boSdxTCzTodAEKFTHrYhGe5vsUpump: TRADER48, 4.95 SOL, None, ['RAYDIUM', 'PUMP']
+2024-11-12 00:46:44,559 - __main__ - INFO - Found trader message from TRADER48 with keywords: ['PUMP']
+2024-11-12 00:46:44,559 - __main__ - INFO - Added trader data for 6uPXjfJe2Zy9bskPeNDrT4NjG6rvmYuu7rEZWGmHpump: TRADER48, 2.94 SOL, None, ['PUMP']
+2024-11-12 00:46:44,559 - telethon.network.mtprotosender - INFO - Disconnecting from 149.154.167.91:443/TcpFull...
+2024-11-12 00:46:44,567 - telethon.network.mtprotosender - INFO - Disconnection from 149.154.167.91:443/TcpFull complete!
+2024-11-12 00:46:44,578 - __main__ - INFO - Processing chat link: https://t.me/Solbix_bot
+2024-11-12 00:46:44,578 - __main__ - INFO - Extracting messages from https://t.me/Solbix_bot with limit 20
+2024-11-12 00:46:44,578 - telethon.network.mtprotosender - INFO - Connecting to 149.154.167.91:443/TcpFull...
+2024-11-12 00:46:44,756 - telethon.network.mtprotosender - INFO - Connection to 149.154.167.91:443/TcpFull complete!
+2024-11-12 00:46:45,523 - __main__ - INFO - Found trader message from TRADER1 with keywords: ['PUMP']
+2024-11-12 00:46:45,523 - __main__ - INFO - Added trader data for CmpuL8k9KY3NrpfDRoJrVmuwd1zRMFRUxX55avyGpump: TRADER1, 1.0 SOL, MC:5.91M$, ['PUMP']
+2024-11-12 00:46:45,539 - __main__ - INFO - Found trader message from TRADER2 with keywords: ['RAYDIUM', 'PUMP']
+2024-11-12 00:46:45,539 - __main__ - INFO - Added trader data for 9fEXUmPnDJYAXpoZ9nWi1gQZPwzVKdf8g9fYXW6Epump: TRADER2, 30.0 SOL, MC:2.23M$, ['RAYDIUM', 'PUMP']
+2024-11-12 00:46:45,539 - __main__ - INFO - Found trader message from TRADER2 with keywords: ['RAYDIUM', 'PUMP']
+2024-11-12 00:46:45,547 - __main__ - INFO - Added trader data for CxtTL45GjgBMwmXTFaqBWPLH3jRNPETHWTqtSb2Mpump: TRADER2, 3.0 SOL, MC:15.64K$, ['RAYDIUM', 'PUMP']
+2024-11-12 00:46:45,555 - __main__ - INFO - Found trader message from TRADER1 with keywords: ['PUMP']
+2024-11-12 00:46:45,569 - __main__ - INFO - Added trader data for C1ia2bYoa2V9sSGy9S5139nztQy6Uzz4gzYwuCkRpump: TRADER1, 5.0 SOL, MC:404.97K$, ['PUMP']
+2024-11-12 00:46:45,574 - __main__ - INFO - Found trader message from TRADER1 with keywords: ['PUMP']
+2024-11-12 00:46:45,611 - __main__ - INFO - Added trader data for 7M3gDRgozcumFsiTeXwjB8cYxpg7Q9R7rH7rkw2Fpump: TRADER1, 2.0 SOL, MC:3.66M$, ['PUMP']
+2024-11-12 00:46:45,619 - __main__ - INFO - Found trader message from TRADER2 with keywords: ['PUMP']
+2024-11-12 00:46:45,619 - __main__ - INFO - Added trader data for GJ9oFyX3jdfaH5i2GZh9N7pyXMc9h3GMHG24v3z8pump: TRADER2, 2.5 SOL, MC:47.90K$, ['PUMP']
+2024-11-12 00:46:45,627 - __main__ - INFO - Found trader message from TRADER1 with keywords: ['PUMP']
+2024-11-12 00:46:45,627 - __main__ - INFO - Added trader data for CzLSujWBLFsSjncfkh59rUFqvafWcY5tzedWJSuypump: TRADER1, 10.0 SOL, MC:964.30M$, ['PUMP']
+2024-11-12 00:46:45,639 - __main__ - INFO - Found trader message from TRADER1 with keywords: ['PUMP']
+2024-11-12 00:46:45,639 - __main__ - INFO - Added trader data for 9BB6NFEcjBCtnNLFko2FqVQBq8HHM13kCyYcdQbgpump: TRADER1, 7.0 SOL, MC:153.78M$, ['PUMP']
+2024-11-12 00:46:45,639 - __main__ - INFO - Found trader message from TRADER2 with keywords: ['PUMP']
+2024-11-12 00:46:45,647 - __main__ - INFO - Added trader data for 7AiSEycT2KyNpA2p43pT58dq8Tkm8wad4FYdzjHVpump: TRADER2, 2.0 SOL, MC:34.58K$, ['PUMP']
+2024-11-12 00:46:45,655 - __main__ - INFO - Found trader message from TRADER1 with keywords: ['PUMP']
+2024-11-12 00:46:45,655 - __main__ - INFO - Added trader data for 7M3gDRgozcumFsiTeXwjB8cYxpg7Q9R7rH7rkw2Fpump: TRADER1, 4.0 SOL, MC:3.87M$, ['PUMP']
+2024-11-12 00:46:45,655 - __main__ - INFO - Found trader message from TRADER2 with keywords: ['PUMP']
+2024-11-12 00:46:45,655 - __main__ - INFO - Added trader data for FyWXBA5aBjBd2YKqveAo1euqtTtdB8XWveHL38zipump: TRADER2, 3.0 SOL, MC:31.87K$, ['PUMP']
+2024-11-12 00:46:45,668 - __main__ - INFO - Formatted message for token 7M3gDRgozcumFsiTeXwjB8cYxpg7Q9R7rH7rkw2Fpump: 2 traders bought 7M3gDRgozcumFsiTeXwjB8cYxpg7Q9R7rH7rkw2Fpump
+
+Trader 1: 2.0 SOL at MC:3.66M$ (PUMP)
+
+Trader 2: 4.0 SOL at MC:3.87M$ (PUMP)
+2024-11-12 00:46:45,693 - telethon.network.mtprotosender - INFO - Disconnecting from 149.154.167.91:443/TcpFull...
+2024-11-12 00:46:45,693 - telethon.network.mtprotosender - INFO - Disconnection from 149.154.167.91:443/TcpFull complete!
+2024-11-12 00:46:46,287 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7327291802:AAFPM911VQH5uyTX2uPG8j503NCt3r62yMs/sendMessage "HTTP/1.1 200 OK"
+2024-11-12 00:46:46,291 - __main__ - INFO - Sent message to chat 6215746498: 2 traders bought 7M3gDRgozcumFsiTeXwjB8cYxpg7Q9R7rH7rkw2Fpump
+
+Trader 1: 2.0 SOL at MC:3.66M$ (PUMP)
+
+Trader 2: 4.0 SOL at MC:3.87M$ (PUMP)
