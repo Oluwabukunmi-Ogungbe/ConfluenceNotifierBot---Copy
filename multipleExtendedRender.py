@@ -157,23 +157,26 @@ def extract_pump_type(text):
 def get_token_address(text, chat_link):
     """Extract token address based on the chat source"""
     solana_addresses = re.findall(r'[0-9A-HJ-NP-Za-km-z]{32,44}', text)
-    
-
     if not solana_addresses:
         return None
         
     if 'Godeye_wallet_trackerBot' in chat_link:
-        return solana_addresses[0]
+        return solana_addresses[-3]#good
     
-    if 'EVMTrackerBot' in chat_link:
+    if 'EVMTrackerBot' in chat_link:#good
         if 'SOL' in text[:87]:
             return solana_addresses[-1]
         return None    
     
-    if 'SOLWalletTrackerBot':
+    if 'SOLWalletTrackerBot':#good
         if 'SOL' in text[:150]:
             return solana_addresses[1]
+        
+    if 'EtherDROPS7_bot': #good
+        if 'SOL' in text[:112]:
+            return solana_addresses[1]
     return solana_addresses[-1]
+
 
   
     
@@ -385,7 +388,7 @@ async def main():
     logging.info("Starting bot with webhooks...")
 
     # Set up webhook URL (replace YOUR_RENDER_URL with your actual Render app URL)
-    render_url = "https://confluencenotifierbot-copy-2.onrender.com"  # Replace with your Render app URL
+    render_url = "https://confluencenotifierbot-copy-6.onrender.com"  # Replace with your Render app URL
     webhook_url = f"{render_url}/{BOT_TOKEN}"
     
     # Start webhook for updates instead of using polling
